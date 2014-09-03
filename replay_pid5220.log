@@ -1,0 +1,26 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 398 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 172683 0 0
+ciMethod java/lang/Object hashCode ()I 2049 1 256 0 -1
+ciMethod java/lang/Object equals (Ljava/lang/Object;)Z 1585 1 5328 0 -1
+ciMethod java/lang/String <init> ([CII)V 2153 1 6476 0 592
+ciMethod java/lang/String <init> ([BIILjava/lang/String;)V 3217 1 2855 0 -1
+ciMethod java/lang/String <init> ([CZ)V 2001 1 11725 0 0
+ciMethod java/lang/String length ()I 3129 1 82640 0 0
+ciMethod java/lang/String charAt (I)C 4097 1 852927 0 112
+ciMethod java/lang/String codePointAt (I)I 1025 1 2321 0 -1
+ciMethod java/lang/String getChars ([CI)V 2049 1 5377 0 0
+ciMethod java/lang/String equals (Ljava/lang/Object;)Z 2065 10257 3133 0 -1
+ciMethod java/lang/String equalsIgnoreCase (Ljava/lang/String;)Z 2049 1 7481 0 1104
+ciMethod java/lang/String regionMatches (ZILjava/lang/String;II)Z 1641 497 4000 0 0
+ciMethod java/lang/String hashCode ()I 2809 32769 1296 0 304
+ciMethod java/lang/String lastIndexOf (I)I 2049 1 11900 0 304
+ciMethod java/lang/String lastIndexOf (II)I 1025 53433 749 0 304
+ciMethod java/lang/String lastIndexOfSupplementary (II)I 0 0 1 0 -1
+ciMethod java/lang/String substring (II)Ljava/lang/String; 2105 1 5429 0 816
+ciMethod java/lang/String concat (Ljava/lang/String;)Ljava/lang/String; 2049 1 5377 0 880
+ciMethod java/lang/String replace (CC)Ljava/lang/String; 865 41713 917 0 1072
+ciMethod java/lang/String toUpperCase (Ljava/util/Locale;)Ljava/lang/String; 489 12377 473 0 0
+ciMethod 
